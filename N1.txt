@@ -1,1 +1,5 @@
 Nota 1
+
+creacion de rama3
+creacion de archivo N6
+modificacion de archivo N1
